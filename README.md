@@ -8,6 +8,3 @@ RVD_diffusion
 FutureGAN
 RetroGAN
 
-Object Detection Model:
-Yolov7
-Faster RCNN detectron2
